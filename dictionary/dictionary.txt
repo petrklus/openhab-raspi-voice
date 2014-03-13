@@ -1,0 +1,23 @@
+hello hal
+lights on
+lights off
+kitchen
+tv
+hallway
+one
+two 
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+colour
+red
+green
+magenta
+scene
+relax
+work
